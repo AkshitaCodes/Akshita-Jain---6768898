@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "xpath",
   "version": "1.0.0",
   "main": "index.js",
@@ -9,10 +10,19 @@
   "author": "",
   "license": "ISC",
   "description": "",
+=======
+>>>>>>> 25a5ae6 (daily practice)
   "dependencies": {
     "playwright": "^1.58.2"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@playwright/test": "^1.58.2"
   }
+=======
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.5"
+  },
+  "scripts": {}
+>>>>>>> 25a5ae6 (daily practice)
 }
