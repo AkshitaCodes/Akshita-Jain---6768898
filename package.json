@@ -1,28 +1,19 @@
 {
-<<<<<<< HEAD
   "name": "xpath",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "playwright test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-=======
->>>>>>> 25a5ae6 (daily practice)
   "dependencies": {
     "playwright": "^1.58.2"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "@playwright/test": "^1.58.2"
-  }
-=======
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.3.5"
-  },
-  "scripts": {}
->>>>>>> 25a5ae6 (daily practice)
+  }
 }
