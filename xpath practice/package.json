@@ -1,18 +1,12 @@
 {
-  "name": "xpath",
+  "name": "xpath-practice",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "playwright test"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "exceljs": "^4.4.0",
-    "playwright": "^1.58.2"
-  },
+  "description": "",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.3.5"
