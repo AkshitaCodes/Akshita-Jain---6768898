@@ -1,0 +1,13 @@
+{
+    "Register":{
+        "fname":"Akshita",
+        "lname":"Jain",
+        "gender":"Female",
+        "phoneNo":"9461933114",
+        "email":"akshita@gmail.com",
+        "passwd":"Akshita@2003"
+    },
+    "Login":{
+
+    }
+}
