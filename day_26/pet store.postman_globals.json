@@ -1,0 +1,27 @@
+{
+	"id": "341faba5-bf9e-497b-8c3a-2fed593708e8",
+	"values": [
+		{
+			"key": "BASE_URL",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_name",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "pet store Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-04-03T05:42:13.065Z",
+	"_postman_exported_using": "Postman/12.4.4"
+}
